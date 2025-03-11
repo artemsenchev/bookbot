@@ -44,11 +44,9 @@ Through this project, I aim to:
 1. Clone the repository:
 git clone https://github.com/yourusername/book-bot.git
 
-text
 2. Navigate to the project directory:
 cd bookbot
 
-text
 3. Run the program:
 python3 main.py <path_to_book>
 
