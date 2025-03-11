@@ -42,12 +42,15 @@ Through this project, I aim to:
 
 ## How to Run the Project
 1. Clone the repository:
-git clone https://github.com/yourusername/book-bot.git
+   
+git clone https://github.com/artemsenchev/bookbot.git
 
 2. Navigate to the project directory:
+   
 cd bookbot
 
 3. Run the program:
+   
 python3 main.py <path_to_book>
 
 ---
